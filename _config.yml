@@ -22,9 +22,8 @@ author: Sole's
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - ZazaGrabber: "https://github.com/xKrustyDemonx/zaza-grabber"
+  Author's home: "https://github.com/xKrustyDemonx"
 
 ###########################
 # --- General options --- #
